@@ -1,0 +1,801 @@
+#,Name,Type1,Type2,Generation,Type1_Recode,Type2_Recode
+1,Bulbasaur,Grass,Poison,1,1,6
+2,Ivysaur,Grass,Poison,1,1,6
+3,Venusaur,Grass,Poison,1,1,6
+3,VenusaurMega Venusaur,Grass,Poison,1,1,6
+4,Charmander,Fire,,1,2,
+5,Charmeleon,Fire,,1,2,
+6,Charizard,Fire,Flying,1,2,18
+6,CharizardMega Charizard X,Fire,Dragon,1,2,15
+6,CharizardMega Charizard Y,Fire,Flying,1,2,18
+7,Squirtle,Water,,1,3,
+8,Wartortle,Water,,1,3,
+9,Blastoise,Water,,1,3,
+9,BlastoiseMega Blastoise,Water,,1,3,
+10,Caterpie,Bug,,1,4,
+11,Metapod,Bug,,1,4,
+12,Butterfree,Bug,Flying,1,4,18
+13,Weedle,Bug,Poison,1,4,6
+14,Kakuna,Bug,Poison,1,4,6
+15,Beedrill,Bug,Poison,1,4,6
+15,BeedrillMega Beedrill,Bug,Poison,1,4,6
+16,Pidgey,Normal,Flying,1,5,18
+17,Pidgeotto,Normal,Flying,1,5,18
+18,Pidgeot,Normal,Flying,1,5,18
+18,PidgeotMega Pidgeot,Normal,Flying,1,5,18
+19,Rattata,Normal,,1,5,
+20,Raticate,Normal,,1,5,
+21,Spearow,Normal,Flying,1,5,18
+22,Fearow,Normal,Flying,1,5,18
+23,Ekans,Poison,,1,6,
+24,Arbok,Poison,,1,6,
+25,Pikachu,Electric,,1,7,
+26,Raichu,Electric,,1,7,
+27,Sandshrew,Ground,,1,8,
+28,Sandslash,Ground,,1,8,
+29,Nidoran♀,Poison,,1,6,
+30,Nidorina,Poison,,1,6,
+31,Nidoqueen,Poison,Ground,1,6,8
+32,Nidoran♂,Poison,,1,6,
+33,Nidorino,Poison,,1,6,
+34,Nidoking,Poison,Ground,1,6,8
+35,Clefairy,Fairy,,1,9,
+36,Clefable,Fairy,,1,9,
+37,Vulpix,Fire,,1,2,
+38,Ninetales,Fire,,1,2,
+39,Jigglypuff,Normal,Fairy,1,5,9
+40,Wigglytuff,Normal,Fairy,1,5,9
+41,Zubat,Poison,Flying,1,6,18
+42,Golbat,Poison,Flying,1,6,18
+43,Oddish,Grass,Poison,1,1,6
+44,Gloom,Grass,Poison,1,1,6
+45,Vileplume,Grass,Poison,1,1,6
+46,Paras,Bug,Grass,1,4,1
+47,Parasect,Bug,Grass,1,4,1
+48,Venonat,Bug,Poison,1,4,6
+49,Venomoth,Bug,Poison,1,4,6
+50,Diglett,Ground,,1,8,
+51,Dugtrio,Ground,,1,8,
+52,Meowth,Normal,,1,5,
+53,Persian,Normal,,1,5,
+54,Psyduck,Water,,1,3,
+55,Golduck,Water,,1,3,
+56,Mankey,Fighting,,1,10,
+57,Primeape,Fighting,,1,10,
+58,Growlithe,Fire,,1,2,
+59,Arcanine,Fire,,1,2,
+60,Poliwag,Water,,1,3,
+61,Poliwhirl,Water,,1,3,
+62,Poliwrath,Water,Fighting,1,3,10
+63,Abra,Psychic,,1,11,
+64,Kadabra,Psychic,,1,11,
+65,Alakazam,Psychic,,1,11,
+65,AlakazamMega Alakazam,Psychic,,1,11,
+66,Machop,Fighting,,1,10,
+67,Machoke,Fighting,,1,10,
+68,Machamp,Fighting,,1,10,
+69,Bellsprout,Grass,Poison,1,1,6
+70,Weepinbell,Grass,Poison,1,1,6
+71,Victreebel,Grass,Poison,1,1,6
+72,Tentacool,Water,Poison,1,3,6
+73,Tentacruel,Water,Poison,1,3,6
+74,Geodude,Rock,Ground,1,12,8
+75,Graveler,Rock,Ground,1,12,8
+76,Golem,Rock,Ground,1,12,8
+77,Ponyta,Fire,,1,2,
+78,Rapidash,Fire,,1,2,
+79,Slowpoke,Water,Psychic,1,3,11
+80,Slowbro,Water,Psychic,1,3,11
+80,SlowbroMega Slowbro,Water,Psychic,1,3,11
+81,Magnemite,Electric,Steel,1,7,17
+82,Magneton,Electric,Steel,1,7,17
+83,Farfetch'd,Normal,Flying,1,5,18
+84,Doduo,Normal,Flying,1,5,18
+85,Dodrio,Normal,Flying,1,5,18
+86,Seel,Water,,1,3,
+87,Dewgong,Water,Ice,1,3,14
+88,Grimer,Poison,,1,6,
+89,Muk,Poison,,1,6,
+90,Shellder,Water,,1,3,
+91,Cloyster,Water,Ice,1,3,14
+92,Gastly,Ghost,Poison,1,13,6
+93,Haunter,Ghost,Poison,1,13,6
+94,Gengar,Ghost,Poison,1,13,6
+94,GengarMega Gengar,Ghost,Poison,1,13,6
+95,Onix,Rock,Ground,1,12,8
+96,Drowzee,Psychic,,1,11,
+97,Hypno,Psychic,,1,11,
+98,Krabby,Water,,1,3,
+99,Kingler,Water,,1,3,
+100,Voltorb,Electric,,1,7,
+101,Electrode,Electric,,1,7,
+102,Exeggcute,Grass,Psychic,1,1,11
+103,Exeggutor,Grass,Psychic,1,1,11
+104,Cubone,Ground,,1,8,
+105,Marowak,Ground,,1,8,
+106,Hitmonlee,Fighting,,1,10,
+107,Hitmonchan,Fighting,,1,10,
+108,Lickitung,Normal,,1,5,
+109,Koffing,Poison,,1,6,
+110,Weezing,Poison,,1,6,
+111,Rhyhorn,Ground,Rock,1,8,12
+112,Rhydon,Ground,Rock,1,8,12
+113,Chansey,Normal,,1,5,
+114,Tangela,Grass,,1,1,
+115,Kangaskhan,Normal,,1,5,
+115,KangaskhanMega Kangaskhan,Normal,,1,5,
+116,Horsea,Water,,1,3,
+117,Seadra,Water,,1,3,
+118,Goldeen,Water,,1,3,
+119,Seaking,Water,,1,3,
+120,Staryu,Water,,1,3,
+121,Starmie,Water,Psychic,1,3,11
+122,Mr. Mime,Psychic,Fairy,1,11,9
+123,Scyther,Bug,Flying,1,4,18
+124,Jynx,Ice,Psychic,1,14,11
+125,Electabuzz,Electric,,1,7,
+126,Magmar,Fire,,1,2,
+127,Pinsir,Bug,,1,4,
+127,PinsirMega Pinsir,Bug,Flying,1,4,18
+128,Tauros,Normal,,1,5,
+129,Magikarp,Water,,1,3,
+130,Gyarados,Water,Flying,1,3,18
+130,GyaradosMega Gyarados,Water,Dark,1,3,16
+131,Lapras,Water,Ice,1,3,14
+132,Ditto,Normal,,1,5,
+133,Eevee,Normal,,1,5,
+134,Vaporeon,Water,,1,3,
+135,Jolteon,Electric,,1,7,
+136,Flareon,Fire,,1,2,
+137,Porygon,Normal,,1,5,
+138,Omanyte,Rock,Water,1,12,3
+139,Omastar,Rock,Water,1,12,3
+140,Kabuto,Rock,Water,1,12,3
+141,Kabutops,Rock,Water,1,12,3
+142,Aerodactyl,Rock,Flying,1,12,18
+142,AerodactylMega Aerodactyl,Rock,Flying,1,12,18
+143,Snorlax,Normal,,1,5,
+144,Articuno,Ice,Flying,1,14,18
+145,Zapdos,Electric,Flying,1,7,18
+146,Moltres,Fire,Flying,1,2,18
+147,Dratini,Dragon,,1,15,
+148,Dragonair,Dragon,,1,15,
+149,Dragonite,Dragon,Flying,1,15,18
+150,Mewtwo,Psychic,,1,11,
+150,MewtwoMega Mewtwo X,Psychic,Fighting,1,11,10
+150,MewtwoMega Mewtwo Y,Psychic,,1,11,
+151,Mew,Psychic,,1,11,
+152,Chikorita,Grass,,2,1,
+153,Bayleef,Grass,,2,1,
+154,Meganium,Grass,,2,1,
+155,Cyndaquil,Fire,,2,2,
+156,Quilava,Fire,,2,2,
+157,Typhlosion,Fire,,2,2,
+158,Totodile,Water,,2,3,
+159,Croconaw,Water,,2,3,
+160,Feraligatr,Water,,2,3,
+161,Sentret,Normal,,2,5,
+162,Furret,Normal,,2,5,
+163,Hoothoot,Normal,Flying,2,5,18
+164,Noctowl,Normal,Flying,2,5,18
+165,Ledyba,Bug,Flying,2,4,18
+166,Ledian,Bug,Flying,2,4,18
+167,Spinarak,Bug,Poison,2,4,6
+168,Ariados,Bug,Poison,2,4,6
+169,Crobat,Poison,Flying,2,6,18
+170,Chinchou,Water,Electric,2,3,7
+171,Lanturn,Water,Electric,2,3,7
+172,Pichu,Electric,,2,7,
+173,Cleffa,Fairy,,2,9,
+174,Igglybuff,Normal,Fairy,2,5,9
+175,Togepi,Fairy,,2,9,
+176,Togetic,Fairy,Flying,2,9,18
+177,Natu,Psychic,Flying,2,11,18
+178,Xatu,Psychic,Flying,2,11,18
+179,Mareep,Electric,,2,7,
+180,Flaaffy,Electric,,2,7,
+181,Ampharos,Electric,,2,7,
+181,AmpharosMega Ampharos,Electric,Dragon,2,7,15
+182,Bellossom,Grass,,2,1,
+183,Marill,Water,Fairy,2,3,9
+184,Azumarill,Water,Fairy,2,3,9
+185,Sudowoodo,Rock,,2,12,
+186,Politoed,Water,,2,3,
+187,Hoppip,Grass,Flying,2,1,18
+188,Skiploom,Grass,Flying,2,1,18
+189,Jumpluff,Grass,Flying,2,1,18
+190,Aipom,Normal,,2,5,
+191,Sunkern,Grass,,2,1,
+192,Sunflora,Grass,,2,1,
+193,Yanma,Bug,Flying,2,4,18
+194,Wooper,Water,Ground,2,3,8
+195,Quagsire,Water,Ground,2,3,8
+196,Espeon,Psychic,,2,11,
+197,Umbreon,Dark,,2,16,
+198,Murkrow,Dark,Flying,2,16,18
+199,Slowking,Water,Psychic,2,3,11
+200,Misdreavus,Ghost,,2,13,
+201,Unown,Psychic,,2,11,
+202,Wobbuffet,Psychic,,2,11,
+203,Girafarig,Normal,Psychic,2,5,11
+204,Pineco,Bug,,2,4,
+205,Forretress,Bug,Steel,2,4,17
+206,Dunsparce,Normal,,2,5,
+207,Gligar,Ground,Flying,2,8,18
+208,Steelix,Steel,Ground,2,17,8
+208,SteelixMega Steelix,Steel,Ground,2,17,8
+209,Snubbull,Fairy,,2,9,
+210,Granbull,Fairy,,2,9,
+211,Qwilfish,Water,Poison,2,3,6
+212,Scizor,Bug,Steel,2,4,17
+212,ScizorMega Scizor,Bug,Steel,2,4,17
+213,Shuckle,Bug,Rock,2,4,12
+214,Heracross,Bug,Fighting,2,4,10
+214,HeracrossMega Heracross,Bug,Fighting,2,4,10
+215,Sneasel,Dark,Ice,2,16,14
+216,Teddiursa,Normal,,2,5,
+217,Ursaring,Normal,,2,5,
+218,Slugma,Fire,,2,2,
+219,Magcargo,Fire,Rock,2,2,12
+220,Swinub,Ice,Ground,2,14,8
+221,Piloswine,Ice,Ground,2,14,8
+222,Corsola,Water,Rock,2,3,12
+223,Remoraid,Water,,2,3,
+224,Octillery,Water,,2,3,
+225,Delibird,Ice,Flying,2,14,18
+226,Mantine,Water,Flying,2,3,18
+227,Skarmory,Steel,Flying,2,17,18
+228,Houndour,Dark,Fire,2,16,2
+229,Houndoom,Dark,Fire,2,16,2
+229,HoundoomMega Houndoom,Dark,Fire,2,16,2
+230,Kingdra,Water,Dragon,2,3,15
+231,Phanpy,Ground,,2,8,
+232,Donphan,Ground,,2,8,
+233,Porygon2,Normal,,2,5,
+234,Stantler,Normal,,2,5,
+235,Smeargle,Normal,,2,5,
+236,Tyrogue,Fighting,,2,10,
+237,Hitmontop,Fighting,,2,10,
+238,Smoochum,Ice,Psychic,2,14,11
+239,Elekid,Electric,,2,7,
+240,Magby,Fire,,2,2,
+241,Miltank,Normal,,2,5,
+242,Blissey,Normal,,2,5,
+243,Raikou,Electric,,2,7,
+244,Entei,Fire,,2,2,
+245,Suicune,Water,,2,3,
+246,Larvitar,Rock,Ground,2,12,8
+247,Pupitar,Rock,Ground,2,12,8
+248,Tyranitar,Rock,Dark,2,12,16
+248,TyranitarMega Tyranitar,Rock,Dark,2,12,16
+249,Lugia,Psychic,Flying,2,11,18
+250,Ho-oh,Fire,Flying,2,2,18
+251,Celebi,Psychic,Grass,2,11,1
+252,Treecko,Grass,,3,1,
+253,Grovyle,Grass,,3,1,
+254,Sceptile,Grass,,3,1,
+254,SceptileMega Sceptile,Grass,Dragon,3,1,15
+255,Torchic,Fire,,3,2,
+256,Combusken,Fire,Fighting,3,2,10
+257,Blaziken,Fire,Fighting,3,2,10
+257,BlazikenMega Blaziken,Fire,Fighting,3,2,10
+258,Mudkip,Water,,3,3,
+259,Marshtomp,Water,Ground,3,3,8
+260,Swampert,Water,Ground,3,3,8
+260,SwampertMega Swampert,Water,Ground,3,3,8
+261,Poochyena,Dark,,3,16,
+262,Mightyena,Dark,,3,16,
+263,Zigzagoon,Normal,,3,5,
+264,Linoone,Normal,,3,5,
+265,Wurmple,Bug,,3,4,
+266,Silcoon,Bug,,3,4,
+267,Beautifly,Bug,Flying,3,4,18
+268,Cascoon,Bug,,3,4,
+269,Dustox,Bug,Poison,3,4,6
+270,Lotad,Water,Grass,3,3,1
+271,Lombre,Water,Grass,3,3,1
+272,Ludicolo,Water,Grass,3,3,1
+273,Seedot,Grass,,3,1,
+274,Nuzleaf,Grass,Dark,3,1,16
+275,Shiftry,Grass,Dark,3,1,16
+276,Taillow,Normal,Flying,3,5,18
+277,Swellow,Normal,Flying,3,5,18
+278,Wingull,Water,Flying,3,3,18
+279,Pelipper,Water,Flying,3,3,18
+280,Ralts,Psychic,Fairy,3,11,9
+281,Kirlia,Psychic,Fairy,3,11,9
+282,Gardevoir,Psychic,Fairy,3,11,9
+282,GardevoirMega Gardevoir,Psychic,Fairy,3,11,9
+283,Surskit,Bug,Water,3,4,3
+284,Masquerain,Bug,Flying,3,4,18
+285,Shroomish,Grass,,3,1,
+286,Breloom,Grass,Fighting,3,1,10
+287,Slakoth,Normal,,3,5,
+288,Vigoroth,Normal,,3,5,
+289,Slaking,Normal,,3,5,
+290,Nincada,Bug,Ground,3,4,8
+291,Ninjask,Bug,Flying,3,4,18
+292,Shedinja,Bug,Ghost,3,4,13
+293,Whismur,Normal,,3,5,
+294,Loudred,Normal,,3,5,
+295,Exploud,Normal,,3,5,
+296,Makuhita,Fighting,,3,10,
+297,Hariyama,Fighting,,3,10,
+298,Azurill,Normal,Fairy,3,5,9
+299,Nosepass,Rock,,3,12,
+300,Skitty,Normal,,3,5,
+301,Delcatty,Normal,,3,5,
+302,Sableye,Dark,Ghost,3,16,13
+302,SableyeMega Sableye,Dark,Ghost,3,16,13
+303,Mawile,Steel,Fairy,3,17,9
+303,MawileMega Mawile,Steel,Fairy,3,17,9
+304,Aron,Steel,Rock,3,17,12
+305,Lairon,Steel,Rock,3,17,12
+306,Aggron,Steel,Rock,3,17,12
+306,AggronMega Aggron,Steel,,3,17,
+307,Meditite,Fighting,Psychic,3,10,11
+308,Medicham,Fighting,Psychic,3,10,11
+308,MedichamMega Medicham,Fighting,Psychic,3,10,11
+309,Electrike,Electric,,3,7,
+310,Manectric,Electric,,3,7,
+310,ManectricMega Manectric,Electric,,3,7,
+311,Plusle,Electric,,3,7,
+312,Minun,Electric,,3,7,
+313,Volbeat,Bug,,3,4,
+314,Illumise,Bug,,3,4,
+315,Roselia,Grass,Poison,3,1,6
+316,Gulpin,Poison,,3,6,
+317,Swalot,Poison,,3,6,
+318,Carvanha,Water,Dark,3,3,16
+319,Sharpedo,Water,Dark,3,3,16
+319,SharpedoMega Sharpedo,Water,Dark,3,3,16
+320,Wailmer,Water,,3,3,
+321,Wailord,Water,,3,3,
+322,Numel,Fire,Ground,3,2,8
+323,Camerupt,Fire,Ground,3,2,8
+323,CameruptMega Camerupt,Fire,Ground,3,2,8
+324,Torkoal,Fire,,3,2,
+325,Spoink,Psychic,,3,11,
+326,Grumpig,Psychic,,3,11,
+327,Spinda,Normal,,3,5,
+328,Trapinch,Ground,,3,8,
+329,Vibrava,Ground,Dragon,3,8,15
+330,Flygon,Ground,Dragon,3,8,15
+331,Cacnea,Grass,,3,1,
+332,Cacturne,Grass,Dark,3,1,16
+333,Swablu,Normal,Flying,3,5,18
+334,Altaria,Dragon,Flying,3,15,18
+334,AltariaMega Altaria,Dragon,Fairy,3,15,9
+335,Zangoose,Normal,,3,5,
+336,Seviper,Poison,,3,6,
+337,Lunatone,Rock,Psychic,3,12,11
+338,Solrock,Rock,Psychic,3,12,11
+339,Barboach,Water,Ground,3,3,8
+340,Whiscash,Water,Ground,3,3,8
+341,Corphish,Water,,3,3,
+342,Crawdaunt,Water,Dark,3,3,16
+343,Baltoy,Ground,Psychic,3,8,11
+344,Claydol,Ground,Psychic,3,8,11
+345,Lileep,Rock,Grass,3,12,1
+346,Cradily,Rock,Grass,3,12,1
+347,Anorith,Rock,Bug,3,12,4
+348,Armaldo,Rock,Bug,3,12,4
+349,Feebas,Water,,3,3,
+350,Milotic,Water,,3,3,
+351,Castform,Normal,,3,5,
+352,Kecleon,Normal,,3,5,
+353,Shuppet,Ghost,,3,13,
+354,Banette,Ghost,,3,13,
+354,BanetteMega Banette,Ghost,,3,13,
+355,Duskull,Ghost,,3,13,
+356,Dusclops,Ghost,,3,13,
+357,Tropius,Grass,Flying,3,1,18
+358,Chimecho,Psychic,,3,11,
+359,Absol,Dark,,3,16,
+359,AbsolMega Absol,Dark,,3,16,
+360,Wynaut,Psychic,,3,11,
+361,Snorunt,Ice,,3,14,
+362,Glalie,Ice,,3,14,
+362,GlalieMega Glalie,Ice,,3,14,
+363,Spheal,Ice,Water,3,14,3
+364,Sealeo,Ice,Water,3,14,3
+365,Walrein,Ice,Water,3,14,3
+366,Clamperl,Water,,3,3,
+367,Huntail,Water,,3,3,
+368,Gorebyss,Water,,3,3,
+369,Relicanth,Water,Rock,3,3,12
+370,Luvdisc,Water,,3,3,
+371,Bagon,Dragon,,3,15,
+372,Shelgon,Dragon,,3,15,
+373,Salamence,Dragon,Flying,3,15,18
+373,SalamenceMega Salamence,Dragon,Flying,3,15,18
+374,Beldum,Steel,Psychic,3,17,11
+375,Metang,Steel,Psychic,3,17,11
+376,Metagross,Steel,Psychic,3,17,11
+376,MetagrossMega Metagross,Steel,Psychic,3,17,11
+377,Regirock,Rock,,3,12,
+378,Regice,Ice,,3,14,
+379,Registeel,Steel,,3,17,
+380,Latias,Dragon,Psychic,3,15,11
+380,LatiasMega Latias,Dragon,Psychic,3,15,11
+381,Latios,Dragon,Psychic,3,15,11
+381,LatiosMega Latios,Dragon,Psychic,3,15,11
+382,Kyogre,Water,,3,3,
+382,KyogrePrimal Kyogre,Water,,3,3,
+383,Groudon,Ground,,3,8,
+383,GroudonPrimal Groudon,Ground,Fire,3,8,2
+384,Rayquaza,Dragon,Flying,3,15,18
+384,RayquazaMega Rayquaza,Dragon,Flying,3,15,18
+385,Jirachi,Steel,Psychic,3,17,11
+386,DeoxysNormal Forme,Psychic,,3,11,
+386,DeoxysAttack Forme,Psychic,,3,11,
+386,DeoxysDefense Forme,Psychic,,3,11,
+386,DeoxysSpeed Forme,Psychic,,3,11,
+387,Turtwig,Grass,,4,1,
+388,Grotle,Grass,,4,1,
+389,Torterra,Grass,Ground,4,1,8
+390,Chimchar,Fire,,4,2,
+391,Monferno,Fire,Fighting,4,2,10
+392,Infernape,Fire,Fighting,4,2,10
+393,Piplup,Water,,4,3,
+394,Prinplup,Water,,4,3,
+395,Empoleon,Water,Steel,4,3,17
+396,Starly,Normal,Flying,4,5,18
+397,Staravia,Normal,Flying,4,5,18
+398,Staraptor,Normal,Flying,4,5,18
+399,Bidoof,Normal,,4,5,
+400,Bibarel,Normal,Water,4,5,3
+401,Kricketot,Bug,,4,4,
+402,Kricketune,Bug,,4,4,
+403,Shinx,Electric,,4,7,
+404,Luxio,Electric,,4,7,
+405,Luxray,Electric,,4,7,
+406,Budew,Grass,Poison,4,1,6
+407,Roserade,Grass,Poison,4,1,6
+408,Cranidos,Rock,,4,12,
+409,Rampardos,Rock,,4,12,
+410,Shieldon,Rock,Steel,4,12,17
+411,Bastiodon,Rock,Steel,4,12,17
+412,Burmy,Bug,,4,4,
+413,WormadamPlant Cloak,Bug,Grass,4,4,1
+413,WormadamSandy Cloak,Bug,Ground,4,4,8
+413,WormadamTrash Cloak,Bug,Steel,4,4,17
+414,Mothim,Bug,Flying,4,4,18
+415,Combee,Bug,Flying,4,4,18
+416,Vespiquen,Bug,Flying,4,4,18
+417,Pachirisu,Electric,,4,7,
+418,Buizel,Water,,4,3,
+419,Floatzel,Water,,4,3,
+420,Cherubi,Grass,,4,1,
+421,Cherrim,Grass,,4,1,
+422,Shellos,Water,,4,3,
+423,Gastrodon,Water,Ground,4,3,8
+424,Ambipom,Normal,,4,5,
+425,Drifloon,Ghost,Flying,4,13,18
+426,Drifblim,Ghost,Flying,4,13,18
+427,Buneary,Normal,,4,5,
+428,Lopunny,Normal,,4,5,
+428,LopunnyMega Lopunny,Normal,Fighting,4,5,10
+429,Mismagius,Ghost,,4,13,
+430,Honchkrow,Dark,Flying,4,16,18
+431,Glameow,Normal,,4,5,
+432,Purugly,Normal,,4,5,
+433,Chingling,Psychic,,4,11,
+434,Stunky,Poison,Dark,4,6,16
+435,Skuntank,Poison,Dark,4,6,16
+436,Bronzor,Steel,Psychic,4,17,11
+437,Bronzong,Steel,Psychic,4,17,11
+438,Bonsly,Rock,,4,12,
+439,Mime Jr.,Psychic,Fairy,4,11,9
+440,Happiny,Normal,,4,5,
+441,Chatot,Normal,Flying,4,5,18
+442,Spiritomb,Ghost,Dark,4,13,16
+443,Gible,Dragon,Ground,4,15,8
+444,Gabite,Dragon,Ground,4,15,8
+445,Garchomp,Dragon,Ground,4,15,8
+445,GarchompMega Garchomp,Dragon,Ground,4,15,8
+446,Munchlax,Normal,,4,5,
+447,Riolu,Fighting,,4,10,
+448,Lucario,Fighting,Steel,4,10,17
+448,LucarioMega Lucario,Fighting,Steel,4,10,17
+449,Hippopotas,Ground,,4,8,
+450,Hippowdon,Ground,,4,8,
+451,Skorupi,Poison,Bug,4,6,4
+452,Drapion,Poison,Dark,4,6,16
+453,Croagunk,Poison,Fighting,4,6,10
+454,Toxicroak,Poison,Fighting,4,6,10
+455,Carnivine,Grass,,4,1,
+456,Finneon,Water,,4,3,
+457,Lumineon,Water,,4,3,
+458,Mantyke,Water,Flying,4,3,18
+459,Snover,Grass,Ice,4,1,14
+460,Abomasnow,Grass,Ice,4,1,14
+460,AbomasnowMega Abomasnow,Grass,Ice,4,1,14
+461,Weavile,Dark,Ice,4,16,14
+462,Magnezone,Electric,Steel,4,7,17
+463,Lickilicky,Normal,,4,5,
+464,Rhyperior,Ground,Rock,4,8,12
+465,Tangrowth,Grass,,4,1,
+466,Electivire,Electric,,4,7,
+467,Magmortar,Fire,,4,2,
+468,Togekiss,Fairy,Flying,4,9,18
+469,Yanmega,Bug,Flying,4,4,18
+470,Leafeon,Grass,,4,1,
+471,Glaceon,Ice,,4,14,
+472,Gliscor,Ground,Flying,4,8,18
+473,Mamoswine,Ice,Ground,4,14,8
+474,Porygon-Z,Normal,,4,5,
+475,Gallade,Psychic,Fighting,4,11,10
+475,GalladeMega Gallade,Psychic,Fighting,4,11,10
+476,Probopass,Rock,Steel,4,12,17
+477,Dusknoir,Ghost,,4,13,
+478,Froslass,Ice,Ghost,4,14,13
+479,Rotom,Electric,Ghost,4,7,13
+479,RotomHeat Rotom,Electric,Fire,4,7,2
+479,RotomWash Rotom,Electric,Water,4,7,3
+479,RotomFrost Rotom,Electric,Ice,4,7,14
+479,RotomFan Rotom,Electric,Flying,4,7,18
+479,RotomMow Rotom,Electric,Grass,4,7,1
+480,Uxie,Psychic,,4,11,
+481,Mesprit,Psychic,,4,11,
+482,Azelf,Psychic,,4,11,
+483,Dialga,Steel,Dragon,4,17,15
+484,Palkia,Water,Dragon,4,3,15
+485,Heatran,Fire,Steel,4,2,17
+486,Regigigas,Normal,,4,5,
+487,GiratinaAltered Forme,Ghost,Dragon,4,13,15
+487,GiratinaOrigin Forme,Ghost,Dragon,4,13,15
+488,Cresselia,Psychic,,4,11,
+489,Phione,Water,,4,3,
+490,Manaphy,Water,,4,3,
+491,Darkrai,Dark,,4,16,
+492,ShayminLand Forme,Grass,,4,1,
+492,ShayminSky Forme,Grass,Flying,4,1,18
+493,Arceus,Normal,,4,5,
+494,Victini,Psychic,Fire,5,11,2
+495,Snivy,Grass,,5,1,
+496,Servine,Grass,,5,1,
+497,Serperior,Grass,,5,1,
+498,Tepig,Fire,,5,2,
+499,Pignite,Fire,Fighting,5,2,10
+500,Emboar,Fire,Fighting,5,2,10
+501,Oshawott,Water,,5,3,
+502,Dewott,Water,,5,3,
+503,Samurott,Water,,5,3,
+504,Patrat,Normal,,5,5,
+505,Watchog,Normal,,5,5,
+506,Lillipup,Normal,,5,5,
+507,Herdier,Normal,,5,5,
+508,Stoutland,Normal,,5,5,
+509,Purrloin,Dark,,5,16,
+510,Liepard,Dark,,5,16,
+511,Pansage,Grass,,5,1,
+512,Simisage,Grass,,5,1,
+513,Pansear,Fire,,5,2,
+514,Simisear,Fire,,5,2,
+515,Panpour,Water,,5,3,
+516,Simipour,Water,,5,3,
+517,Munna,Psychic,,5,11,
+518,Musharna,Psychic,,5,11,
+519,Pidove,Normal,Flying,5,5,18
+520,Tranquill,Normal,Flying,5,5,18
+521,Unfezant,Normal,Flying,5,5,18
+522,Blitzle,Electric,,5,7,
+523,Zebstrika,Electric,,5,7,
+524,Roggenrola,Rock,,5,12,
+525,Boldore,Rock,,5,12,
+526,Gigalith,Rock,,5,12,
+527,Woobat,Psychic,Flying,5,11,18
+528,Swoobat,Psychic,Flying,5,11,18
+529,Drilbur,Ground,,5,8,
+530,Excadrill,Ground,Steel,5,8,17
+531,Audino,Normal,,5,5,
+531,AudinoMega Audino,Normal,Fairy,5,5,9
+532,Timburr,Fighting,,5,10,
+533,Gurdurr,Fighting,,5,10,
+534,Conkeldurr,Fighting,,5,10,
+535,Tympole,Water,,5,3,
+536,Palpitoad,Water,Ground,5,3,8
+537,Seismitoad,Water,Ground,5,3,8
+538,Throh,Fighting,,5,10,
+539,Sawk,Fighting,,5,10,
+540,Sewaddle,Bug,Grass,5,4,1
+541,Swadloon,Bug,Grass,5,4,1
+542,Leavanny,Bug,Grass,5,4,1
+543,Venipede,Bug,Poison,5,4,6
+544,Whirlipede,Bug,Poison,5,4,6
+545,Scolipede,Bug,Poison,5,4,6
+546,Cottonee,Grass,Fairy,5,1,9
+547,Whimsicott,Grass,Fairy,5,1,9
+548,Petilil,Grass,,5,1,
+549,Lilligant,Grass,,5,1,
+550,Basculin,Water,,5,3,
+551,Sandile,Ground,Dark,5,8,16
+552,Krokorok,Ground,Dark,5,8,16
+553,Krookodile,Ground,Dark,5,8,16
+554,Darumaka,Fire,,5,2,
+555,DarmanitanStandard Mode,Fire,,5,2,
+555,DarmanitanZen Mode,Fire,Psychic,5,2,11
+556,Maractus,Grass,,5,1,
+557,Dwebble,Bug,Rock,5,4,12
+558,Crustle,Bug,Rock,5,4,12
+559,Scraggy,Dark,Fighting,5,16,10
+560,Scrafty,Dark,Fighting,5,16,10
+561,Sigilyph,Psychic,Flying,5,11,18
+562,Yamask,Ghost,,5,13,
+563,Cofagrigus,Ghost,,5,13,
+564,Tirtouga,Water,Rock,5,3,12
+565,Carracosta,Water,Rock,5,3,12
+566,Archen,Rock,Flying,5,12,18
+567,Archeops,Rock,Flying,5,12,18
+568,Trubbish,Poison,,5,6,
+569,Garbodor,Poison,,5,6,
+570,Zorua,Dark,,5,16,
+571,Zoroark,Dark,,5,16,
+572,Minccino,Normal,,5,5,
+573,Cinccino,Normal,,5,5,
+574,Gothita,Psychic,,5,11,
+575,Gothorita,Psychic,,5,11,
+576,Gothitelle,Psychic,,5,11,
+577,Solosis,Psychic,,5,11,
+578,Duosion,Psychic,,5,11,
+579,Reuniclus,Psychic,,5,11,
+580,Ducklett,Water,Flying,5,3,18
+581,Swanna,Water,Flying,5,3,18
+582,Vanillite,Ice,,5,14,
+583,Vanillish,Ice,,5,14,
+584,Vanilluxe,Ice,,5,14,
+585,Deerling,Normal,Grass,5,5,1
+586,Sawsbuck,Normal,Grass,5,5,1
+587,Emolga,Electric,Flying,5,7,18
+588,Karrablast,Bug,,5,4,
+589,Escavalier,Bug,Steel,5,4,17
+590,Foongus,Grass,Poison,5,1,6
+591,Amoonguss,Grass,Poison,5,1,6
+592,Frillish,Water,Ghost,5,3,13
+593,Jellicent,Water,Ghost,5,3,13
+594,Alomomola,Water,,5,3,
+595,Joltik,Bug,Electric,5,4,7
+596,Galvantula,Bug,Electric,5,4,7
+597,Ferroseed,Grass,Steel,5,1,17
+598,Ferrothorn,Grass,Steel,5,1,17
+599,Klink,Steel,,5,17,
+600,Klang,Steel,,5,17,
+601,Klinklang,Steel,,5,17,
+602,Tynamo,Electric,,5,7,
+603,Eelektrik,Electric,,5,7,
+604,Eelektross,Electric,,5,7,
+605,Elgyem,Psychic,,5,11,
+606,Beheeyem,Psychic,,5,11,
+607,Litwick,Ghost,Fire,5,13,2
+608,Lampent,Ghost,Fire,5,13,2
+609,Chandelure,Ghost,Fire,5,13,2
+610,Axew,Dragon,,5,15,
+611,Fraxure,Dragon,,5,15,
+612,Haxorus,Dragon,,5,15,
+613,Cubchoo,Ice,,5,14,
+614,Beartic,Ice,,5,14,
+615,Cryogonal,Ice,,5,14,
+616,Shelmet,Bug,,5,4,
+617,Accelgor,Bug,,5,4,
+618,Stunfisk,Ground,Electric,5,8,7
+619,Mienfoo,Fighting,,5,10,
+620,Mienshao,Fighting,,5,10,
+621,Druddigon,Dragon,,5,15,
+622,Golett,Ground,Ghost,5,8,13
+623,Golurk,Ground,Ghost,5,8,13
+624,Pawniard,Dark,Steel,5,16,17
+625,Bisharp,Dark,Steel,5,16,17
+626,Bouffalant,Normal,,5,5,
+627,Rufflet,Normal,Flying,5,5,18
+628,Braviary,Normal,Flying,5,5,18
+629,Vullaby,Dark,Flying,5,16,18
+630,Mandibuzz,Dark,Flying,5,16,18
+631,Heatmor,Fire,,5,2,
+632,Durant,Bug,Steel,5,4,17
+633,Deino,Dark,Dragon,5,16,15
+634,Zweilous,Dark,Dragon,5,16,15
+635,Hydreigon,Dark,Dragon,5,16,15
+636,Larvesta,Bug,Fire,5,4,2
+637,Volcarona,Bug,Fire,5,4,2
+638,Cobalion,Steel,Fighting,5,17,10
+639,Terrakion,Rock,Fighting,5,12,10
+640,Virizion,Grass,Fighting,5,1,10
+641,TornadusIncarnate Forme,Flying,,5,18,
+641,TornadusTherian Forme,Flying,,5,18,
+642,ThundurusIncarnate Forme,Electric,Flying,5,7,18
+642,ThundurusTherian Forme,Electric,Flying,5,7,18
+643,Reshiram,Dragon,Fire,5,15,2
+644,Zekrom,Dragon,Electric,5,15,7
+645,LandorusIncarnate Forme,Ground,Flying,5,8,18
+645,LandorusTherian Forme,Ground,Flying,5,8,18
+646,Kyurem,Dragon,Ice,5,15,14
+646,KyuremBlack Kyurem,Dragon,Ice,5,15,14
+646,KyuremWhite Kyurem,Dragon,Ice,5,15,14
+647,KeldeoOrdinary Forme,Water,Fighting,5,3,10
+647,KeldeoResolute Forme,Water,Fighting,5,3,10
+648,MeloettaAria Forme,Normal,Psychic,5,5,11
+648,MeloettaPirouette Forme,Normal,Fighting,5,5,10
+649,Genesect,Bug,Steel,5,4,17
+650,Chespin,Grass,,6,1,
+651,Quilladin,Grass,,6,1,
+652,Chesnaught,Grass,Fighting,6,1,10
+653,Fennekin,Fire,,6,2,
+654,Braixen,Fire,,6,2,
+655,Delphox,Fire,Psychic,6,2,11
+656,Froakie,Water,,6,3,
+657,Frogadier,Water,,6,3,
+658,Greninja,Water,Dark,6,3,16
+659,Bunnelby,Normal,,6,5,
+660,Diggersby,Normal,Ground,6,5,8
+661,Fletchling,Normal,Flying,6,5,18
+662,Fletchinder,Fire,Flying,6,2,18
+663,Talonflame,Fire,Flying,6,2,18
+664,Scatterbug,Bug,,6,4,
+665,Spewpa,Bug,,6,4,
+666,Vivillon,Bug,Flying,6,4,18
+667,Litleo,Fire,Normal,6,2,5
+668,Pyroar,Fire,Normal,6,2,5
+669,Flabébé,Fairy,,6,9,
+670,Floette,Fairy,,6,9,
+671,Florges,Fairy,,6,9,
+672,Skiddo,Grass,,6,1,
+673,Gogoat,Grass,,6,1,
+674,Pancham,Fighting,,6,10,
+675,Pangoro,Fighting,Dark,6,10,16
+676,Furfrou,Normal,,6,5,
+677,Espurr,Psychic,,6,11,
+678,MeowsticMale,Psychic,,6,11,
+678,MeowsticFemale,Psychic,,6,11,
+679,Honedge,Steel,Ghost,6,17,13
+680,Doublade,Steel,Ghost,6,17,13
+681,AegislashBlade Forme,Steel,Ghost,6,17,13
+681,AegislashShield Forme,Steel,Ghost,6,17,13
+682,Spritzee,Fairy,,6,9,
+683,Aromatisse,Fairy,,6,9,
+684,Swirlix,Fairy,,6,9,
+685,Slurpuff,Fairy,,6,9,
+686,Inkay,Dark,Psychic,6,16,11
+687,Malamar,Dark,Psychic,6,16,11
+688,Binacle,Rock,Water,6,12,3
+689,Barbaracle,Rock,Water,6,12,3
+690,Skrelp,Poison,Water,6,6,3
+691,Dragalge,Poison,Dragon,6,6,15
+692,Clauncher,Water,,6,3,
+693,Clawitzer,Water,,6,3,
+694,Helioptile,Electric,Normal,6,7,5
+695,Heliolisk,Electric,Normal,6,7,5
+696,Tyrunt,Rock,Dragon,6,12,15
+697,Tyrantrum,Rock,Dragon,6,12,15
+698,Amaura,Rock,Ice,6,12,14
+699,Aurorus,Rock,Ice,6,12,14
+700,Sylveon,Fairy,,6,9,
+701,Hawlucha,Fighting,Flying,6,10,18
+702,Dedenne,Electric,Fairy,6,7,9
+703,Carbink,Rock,Fairy,6,12,9
+704,Goomy,Dragon,,6,15,
+705,Sliggoo,Dragon,,6,15,
+706,Goodra,Dragon,,6,15,
+707,Klefki,Steel,Fairy,6,17,9
+708,Phantump,Ghost,Grass,6,13,1
+709,Trevenant,Ghost,Grass,6,13,1
+710,PumpkabooAverage Size,Ghost,Grass,6,13,1
+710,PumpkabooSmall Size,Ghost,Grass,6,13,1
+710,PumpkabooLarge Size,Ghost,Grass,6,13,1
+710,PumpkabooSuper Size,Ghost,Grass,6,13,1
+711,GourgeistAverage Size,Ghost,Grass,6,13,1
+711,GourgeistSmall Size,Ghost,Grass,6,13,1
+711,GourgeistLarge Size,Ghost,Grass,6,13,1
+711,GourgeistSuper Size,Ghost,Grass,6,13,1
+712,Bergmite,Ice,,6,14,
+713,Avalugg,Ice,,6,14,
+714,Noibat,Flying,Dragon,6,18,15
+715,Noivern,Flying,Dragon,6,18,15
+716,Xerneas,Fairy,,6,9,
+717,Yveltal,Dark,Flying,6,16,18
+718,Zygarde50% Forme,Dragon,Ground,6,15,8
+719,Diancie,Rock,Fairy,6,12,9
+719,DiancieMega Diancie,Rock,Fairy,6,12,9
+720,HoopaHoopa Confined,Psychic,Ghost,6,11,13
+720,HoopaHoopa Unbound,Psychic,Dark,6,11,16
+721,Volcanion,Fire,Water,6,2,3
